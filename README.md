@@ -4,7 +4,7 @@
 
 ## Screenshots 
 
-*Loop to take 1% of each csv file (corresponding to a certain month) to obtain 1% of data from each file:
+*Loop to take 1% of each csv file (corresponding to a certain month) to obtain 1% of data from each file:*
 ![Screenshot (177)](https://user-images.githubusercontent.com/101612220/193104091-0f84fc95-3831-4a79-ae07-a4e6dfb98f1e.png)
 
 
