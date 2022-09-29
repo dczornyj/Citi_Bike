@@ -4,18 +4,18 @@
 
 ## Screenshots 
 
-Loop to take 1% of each csv file
+*Loop to take 1% of each csv file*
 Looping through each CSV file (corresponding to a certain month) to obtain 1% of data from each file:
-![image](https://user-images.githubusercontent.com/101612220/193088843-316c4990-f1c7-447b-a2ea-58f67be92d65.png)
+![Screenshot (177)](https://user-images.githubusercontent.com/101612220/193104091-0f84fc95-3831-4a79-ae07-a4e6dfb98f1e.png)
 
-Top 10 start stations for member riders:
+
+*Top 10 start stations for member riders:*
 ![Screenshot (175)](https://user-images.githubusercontent.com/101612220/193088366-fdd2034b-0cd6-4287-bbef-8e629a1bdc00.png)
 
-Top 10 start stations for casual riders:
+*Top 10 start stations for casual riders:*
 ![Screenshot (176)](https://user-images.githubusercontent.com/101612220/193088385-a7b36c28-e12c-4a0e-a155-9ffef3274d07.png)
 
 
-![image](https://user-images.githubusercontent.com/101612220/193088843-316c4990-f1c7-447b-a2ea-58f67be92d65.png)
 
 
 ## Background
