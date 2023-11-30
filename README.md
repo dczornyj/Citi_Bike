@@ -9,33 +9,9 @@
 
 
 *Top 10 start stations for member riders:*
-![Screenshot (175)](https://user-images.githubusercontent.com/101612220/193088366-fdd2034b-0cd6-4287-bbef-8e629a1bdc00.png)
+![Screenshot (280)](https://github.com/dczornyj/NYC-Citi-Bike-Post-Coronavirus-Rider-Study/assets/101612220/9fad6143-6c89-4c84-98af-7c9e06a345aa)
 
 *Top 10 start stations for casual riders:*
-![Screenshot (176)](https://user-images.githubusercontent.com/101612220/193088385-a7b36c28-e12c-4a0e-a155-9ffef3274d07.png)
+![casualridersphoto](https://github.com/dczornyj/NYC-Citi-Bike-Post-Coronavirus-Rider-Study/assets/101612220/345f6f67-9b15-4635-929f-586a653a2ef6)
 
 
-
-
-## Background
-
-Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
-
-Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
-
-However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so your first task on the job is to build a set of data reports to provide the answers.
-
-## Task
-
-**Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.** 
-
-**Design 2-5 visualizations for each discovered phenomena (4-10 total). You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods.** 
-
-* Use your visualizations (does not have to be all of them) to design a dashboard for each phenomena.
-* The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring. 
-
-[Unit 18 Rubric - Tableau Homework - Citi Bike Analytics](https://docs.google.com/document/d/11hlhJnKmEJgRYL3mUxRcdrz4AIxBU5PXW5fYrRYvgW8/edit?usp=sharing)
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
